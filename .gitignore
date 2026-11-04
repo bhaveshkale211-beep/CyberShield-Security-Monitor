@@ -1,0 +1,10 @@
+# Files the app generates while running.
+# They can contain the addresses you scanned and, after menu option 6, your public IP.
+security_log.txt
+scan_results.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
